@@ -1,0 +1,26 @@
+{
+  "name": "@sagevogt/turtleneck-npm-package",
+  "version": "1.0.0",
+  "description": "Practice npm package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SageVanGogt/turtleneck-npm-package.git"
+  },
+  "author": "Sage Vogt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SageVanGogt/turtleneck-npm-package/issues"
+  },
+  "homepage": "https://github.com/SageVanGogt/turtleneck-npm-package#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
